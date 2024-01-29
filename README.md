@@ -4,7 +4,7 @@
 
 <img src="https://profile-counter.glitch.me/smorel-dev/count.svg" />
 
-Added the `Mon 29 Jan 2024`
+Added the `29 Jan 2024`
 
 <!--
 **smorel-dev/smorel-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
