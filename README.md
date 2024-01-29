@@ -3,10 +3,7 @@
 ### Visitor count
 
 <img src="https://profile-counter.glitch.me/smorel-dev/count.svg" />
-
 Added the `29 Jan 2024`
-
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
 
 <!--
 **smorel-dev/smorel-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
