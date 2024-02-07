@@ -26,11 +26,11 @@
 <br/>
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/php/777BB4" height="60" alt="php logo"  />
+  <img src="https://cdn.simpleicons.org/php/777BB4" height="60" alt="PHP logo"  />
   <img width="25" />
-  <img src="https://cdn.simpleicons.org/wordpress/21759B" height="50" alt="wordpress logo"  />
+  <img src="https://cdn.simpleicons.org/wordpress/21759B" height="50" alt="Wordpress logo"  />
   <img width="25" />
-  <img src="https://e7.pngegg.com/pngimages/636/682/png-clipart-prestashop-payment-gateway-woocommerce-magento-oscommerce-joomla-company-text.png" height="50" alt="Prestashop logo"  />
+  <img src="https://digitiz.fr/wp-content/uploads/2023/05/Prestashop-nouveau-logo.png" height="50" alt="Prestashop logo"  />
 </div>
 <br/>
 
