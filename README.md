@@ -1,7 +1,6 @@
-
-<h2 align="left">Hi 👋! My name is Stephane MOREL and I'm a Developer, from Montpellier (FRANCE)</h2>
-
-###
+<h3>Hi 👋!</h3>
+<h2 align="left">Stephane MOREL, I'm a Developer, from Montpellier (FRANCE)</h2>
+<br/>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
@@ -23,25 +22,52 @@
   <img src="https://cdn.simpleicons.org/graphql/E10098" height="50" alt="graphql logo"  />
   <img width="25" />
   <img src="https://skillicons.dev/icons?i=prisma" height="50" alt="prisma logo"  />
-  <img width="25" />
-  <img src="https://cdn.simpleicons.org/php/777BB4" height="50" alt="php logo"  />
+</div>
+<br/>
+
+<div align="center">
+  <img src="https://cdn.simpleicons.org/php/777BB4" height="60" alt="php logo"  />
   <img width="25" />
   <img src="https://cdn.simpleicons.org/wordpress/21759B" height="50" alt="wordpress logo"  />
   <img width="25" />
   <img src="https://e7.pngegg.com/pngimages/636/682/png-clipart-prestashop-payment-gateway-woocommerce-magento-oscommerce-joomla-company-text.png" height="50" alt="Prestashop logo"  />
 </div>
+<br/>
 
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+<h2 align="left">Stats</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=smorel-dev&show_icons=true&include_all_commits&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smorel-dev&locale=en&hide_title=false&layout=compact&card_width=320&theme=tokyonight" />
+  <!--
+  <br/><br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=smorel-dev" />
+  -->
 </div>
+<br/>
 
-###
+<h2 align="left">Contact me</h2>
+<div align="left">
+  <table style="width: 100%; border: none;" cellspacing="0" cellpadding="0" border="0">
+    <tr>
+      <td valign="middle" align="center">
+        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+      </td>
+      <td>https://www.linkedin.com/in/stephane-morel-387331196/</td>
+    </tr>
+    <tr>
+      <td valign="middle" align="center">
+        <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+      </td>
+      <td>smorel.dev@gmail.com</td>
+    </tr>
+  </table>
+</div>
+<br/>
 
-### Visitor count
 
+<h2 align="left">Visitor</h2>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=smorel-dev&label=Profile%20views&color=0e75b6&style=flat" height="30" /></p>
+<!--
 <img src="https://profile-counter.glitch.me/smorel-dev/count.svg" />
-
 Added the `29 Jan 2024`
+-->
