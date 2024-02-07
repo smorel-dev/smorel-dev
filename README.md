@@ -30,6 +30,8 @@
   <img width="25" />
   <img src="https://cdn.simpleicons.org/wordpress/21759B" height="50" alt="Wordpress logo"  />
   <img width="25" />
+  <img src="https://www.clook.net/wp-content/uploads/2019/07/elementor-pro-logo.png" height="30" alt="Elementor PRO logo"  />
+  <img width="25" />
   <img src="https://digitiz.fr/wp-content/uploads/2023/05/Prestashop-nouveau-logo.png" height="50" alt="Prestashop logo"  />
 </div>
 <br/>
