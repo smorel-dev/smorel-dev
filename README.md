@@ -1,4 +1,4 @@
-<h3>Hi 👋!</h3>
+<!--<h3>Hi 👋!</h3>-->
 <h2 align="left">Stephane MOREL, I'm a Developer, from Montpellier (FRANCE)</h2>
 <br/>
 
