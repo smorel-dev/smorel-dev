@@ -58,19 +58,22 @@
       </td>
       <td>https://www.linkedin.com/in/stephane-morel-387331196/</td>
     </tr>
+    <!--
     <tr>
       <td valign="middle" align="center">
         <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
       </td>
       <td>smorel.dev@gmail.com</td>
     </tr>
+    -->
   </table>
 </div>
 <br/>
 
-
+<!--
 <h2 align="left">Visitor</h2>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=smorel-dev&label=Profile%20views&color=0e75b6&style=flat" height="25" /></p>
+-->
 <!--
 <img src="https://profile-counter.glitch.me/smorel-dev/count.svg" />
 Added the `29 Jan 2024`
