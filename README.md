@@ -1,5 +1,5 @@
 <!--<h3>Hi 👋!</h3>-->
-<h2 align="left">Stephane MOREL, I'm a Developer, from Montpellier (FRANCE)</h2>
+<h2 align="center">Stephane MOREL, I'm a Developer, from Montpellier (FRANCE)</h2>
 <br/>
 
 <div align="center">
@@ -37,12 +37,12 @@
 <br/>
 
 <!--
-<h2 align="center">PORTFOLIO</h2>
-  <div align="center">
-    <a title="See my Portfolio" href="https://www.google.fr/">
-      <img src="https://w7.pngwing.com/pngs/114/10/png-transparent-computer-icons-graphic-design-portfolio-portfolio-web-design-text-photography-thumbnail.png" alt="Portfolio logo"  />
-    </a>
-  </div>
+<h2 align="left">My PORTFOLIO</h2>
+<div align="left">
+  <a title="See my Portfolio" href="https://portfolio-smorel.vercel.app/">
+    <img src="https://raw.githubusercontent.com/smorel-dev/smorel-dev/main/img/ico-portfolio.png" alt="Portfolio logo" height="100"  />
+  </a>
+</div>
 <br/>
 -->
 
@@ -58,8 +58,6 @@
 </div>
 <br/>
 -->
-
-<h2 align="left">Contact me</h2>
 
 <!--
 <h2 align="left">Contact me</h2>
