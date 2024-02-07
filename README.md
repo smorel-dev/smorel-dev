@@ -37,6 +37,16 @@
 <br/>
 
 <!--
+<h2 align="center">PORTFOLIO</h2>
+  <div align="center">
+    <a title="See my Portfolio" href="https://www.google.fr/">
+      <img src="https://w7.pngwing.com/pngs/114/10/png-transparent-computer-icons-graphic-design-portfolio-portfolio-web-design-text-photography-thumbnail.png" alt="Portfolio logo"  />
+    </a>
+  </div>
+<br/>
+-->
+
+<!--
 <h2 align="left">STATS &nbsp; &nbsp; &nbsp; <i>(PUBLIC respositories)</i></h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=smorel-dev&show_icons=true&include_all_commits&theme=tokyonight" />
@@ -50,6 +60,9 @@
 -->
 
 <h2 align="left">Contact me</h2>
+
+<!--
+<h2 align="left">Contact me</h2>
 <div align="left">
   <table style="width: 100%; border: none;" cellspacing="0" cellpadding="0" border="0">
     <tr>
@@ -58,17 +71,18 @@
       </td>
       <td>https://www.linkedin.com/in/stephane-morel-387331196/</td>
     </tr>
-    <!--
+    
     <tr>
       <td valign="middle" align="center">
         <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
       </td>
       <td>smorel.dev@gmail.com</td>
     </tr>
-    -->
+    
   </table>
 </div>
 <br/>
+-->
 
 <!--
 <h2 align="left">Visitor</h2>
