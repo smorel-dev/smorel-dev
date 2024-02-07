@@ -1,9 +1,12 @@
 ### Hi there 👋
 
+### tab Visitor-count
+<img src="https://profile-counter.glitch.me/smorel-dev/count.svg" />
+
+Added the `29 Jan 2024`
+
 
 [details="Visitor count"]
-### Visitor count
-
 <img src="https://profile-counter.glitch.me/smorel-dev/count.svg" />
 
 Added the `29 Jan 2024`
